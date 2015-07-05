@@ -39,18 +39,18 @@ Node.js Express web server middleware for in-app, self-hosted Meddelare within y
 npm install --save meddelare-express
 ```
 
-**Add the SocialButtonsServerMiddleware to your Express app**
+**Add the MeddelareExpress to your Express app**
 
 ```javascript
 var express = require("express"),
     app = express(),
     PORT = process.env.PORT || 5000;
 
-var SocialButtonsServerMiddleware = require("meddelare-express"),
-    socialButtonsServerMiddleware = new SocialButtonsServerMiddleware();
+var MeddelareExpress = require("meddelare-express"),
+    meddelareExpress = new MeddelareExpress();
 
 // Choose your own directory path for the middleware.
-app.use("/meddelare/", socialButtonsServerMiddleware.getRouter());
+app.use("/meddelare/", meddelareExpress.getRouter());
 
 app.listen(PORT, function() {
     console.log("Listening on " + PORT);
@@ -151,7 +151,7 @@ routerOptions: {
 ```
 
 **Social button counts**  
-TODO `socialButtonsCounts: {}`
+TODO `meddelareCounters: {}`
 
 **Logger**  
 TODO `logger: {}`

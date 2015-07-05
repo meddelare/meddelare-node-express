@@ -1,6 +1,6 @@
 {
     "name": "meddelare-express",
-    "version": "1.0.0-alpha.2",
+    "version": "1.0.0-alpha.3",
     "description": "Node.js Express web server middleware for in-app, self-hosted Meddelare within your current server.",
     "homepage": "http://meddelare.com/",
     "repository": {
