@@ -22,12 +22,13 @@ Node.js Express web server middleware for in-app, self-hosted Meddelare within y
 
 ## Features
 
-- Get counts from multiple social networks in a single API call, delivered as [JSON](https://en.wikipedia.org/wiki/JSON) or [JSONP](https://en.wikipedia.org/wiki/JSONP).
-- The server calls social networks in parallel, making it (approximately) as fast to get the count from one as several at once.
-- No third party requirements -- you can host both the social buttons server and any resources yourself.
-- Super-fast in-memory cache keeps the most recent results per network and url.
-- Proxies calls from your users to the social networks, blocking their user tracking until the user decides to click a share button.
-- Sends cache control HTTP headers so you can throw a [content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network) (CDN) service, such as CloudFront, in front with ease.
+- **Completely customizable** user interface design -- use layout, logotypes, animations of your own choice.
+- **A single API call** to get counts from multiple social networks, delivered as JSON or JSONP.
+- **Calls social networks in parallel** from the server, making it (approximately) as fast to get the count from one as several at once.
+- **No third party resources required** – you can host both the social buttons server and any resources yourself.
+- **Blocks social networks' user tracking** by proxying calls until the user decides to click a share button.
+- **Super-fast in-memory cache** keeps the most recent results per network and url.
+- **Easy to deploy** and prepared for [content delivery network](https://en.wikipedia.org/wiki/Content_delivery_network) (CDN) proxies.
 
 
 
