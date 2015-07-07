@@ -2,7 +2,7 @@
     "name": "meddelare-express",
     "version": "1.0.0",
     "description": "Node.js Express web server middleware for in-app, self-hosted Meddelare within your current server.",
-    "homepage": "http://meddelare.com/",
+    "homepage": "https://meddelare.com/",
     "repository": {
         "type": "git",
         "url": "git://github.com/meddelare/meddelare-node-express.git"
@@ -34,7 +34,7 @@
     "license": "MIT",
     "author": {
         "name": "Meddelare",
-        "url": "http://meddelare.com/"
+        "url": "https://meddelare.com/"
     },
     "contributors": [{
         "name": "Thomas Davis",
