@@ -3,11 +3,13 @@
 
 Install **custom social share counters** on your website with your **own hosted solution**, which only makes **a single API request** and loads **minimal or zero assets** to display the counters.
 
-Check out [meddelare.com](http://meddelare.com/)!
+[![A screenshot of the button example](https://cloud.githubusercontent.com/assets/1398544/8511166/5c92d0b2-230b-11e5-895a-d3b67da749b5.png)](http://meddelare.com/)
 
-[![A screenshot of the button example](https://cloud.githubusercontent.com/assets/1398544/8511166/5c92d0b2-230b-11e5-895a-d3b67da749b5.png)](http://meddelare.com/meddelare-examples)
+Check out [meddelare.com](http://meddelare.com/) and view examples on [meddelare.com/meddelare-examples](http://meddelare.com/meddelare-examples).
 
-View examples on [meddelare.com/meddelare-examples](http://meddelare.com/meddelare-examples).
+
+
+---
 
 
 
