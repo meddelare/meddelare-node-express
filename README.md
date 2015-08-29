@@ -60,7 +60,7 @@ app.listen(PORT, function() {
 });
 ```
 
-- Test by accessing your local server on [http://localhost:5000/?networks=facebook,twitter,googleplus&url=https://meddelare.com](http://localhost:5000/?networks=facebook,twitter,googleplus&url=https://meddelare.com)
+- Test by accessing your local server on [http://localhost:5000/meddelare/?networks=facebook,twitter,googleplus&url=https://meddelare.com](http://localhost:5000/meddelare/?networks=facebook,twitter,googleplus&url=https://meddelare.com) (depending on your configuration).
 
 
 
