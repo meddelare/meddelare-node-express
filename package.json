@@ -1,6 +1,6 @@
 {
     "name": "meddelare-express",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Node.js Express web server middleware for in-app, self-hosted Meddelare within your current server.",
     "homepage": "https://meddelare.com/",
     "repository": {
@@ -36,14 +36,18 @@
         "name": "Meddelare",
         "url": "https://meddelare.com/"
     },
-    "contributors": [{
-        "name": "Thomas Davis",
-        "url": "http://thomasdav.is/"
-    }, {
-        "name": "Beau Gunderson",
-        "url": "https://beaugunderson.com/"
-    }, {
-        "name": "Joel Purra",
-        "url": "http://joelpurra.com/"
-    }]
+    "contributors": [
+        {
+            "name": "Thomas Davis",
+            "url": "http://thomasdav.is/"
+        },
+        {
+            "name": "Beau Gunderson",
+            "url": "https://beaugunderson.com/"
+        },
+        {
+            "name": "Joel Purra",
+            "url": "http://joelpurra.com/"
+        }
+    ]
 }
